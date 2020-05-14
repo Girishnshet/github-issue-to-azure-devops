@@ -16,7 +16,7 @@ jobs:
           ado_organization: "girishshet"
           ado_project: "demo"
           ado_area_path: "demo"
-          ado_wit: "User Story"
+          ado_wit: "Task"
           ado_new_state: "New"
           ado_close_state: "Closed"
           ado_bypassrules: true
